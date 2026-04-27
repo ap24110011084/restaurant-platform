@@ -35,10 +35,10 @@ npm run dev
 
 ## Team Members
 - Siddarda Yerramsetti
-- Member 2
-- Member 3
-- Member 4
-- Member 5
+- Odugu Venkata ajay
+- perla Vijay
+- Kovvasi Madhu Sandeep
+- Payyavula Guru Shanmukh Siddarth
 
 ## Academic Project
 Built for final semester project submission.
